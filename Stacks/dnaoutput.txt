@@ -1,0 +1,8 @@
+Sequence: AGCTAGCAT
+Complement: TCGATCGTA
+Reverse Complement: ATGCTAGCT
+
+Sequence: GCATGCATC
+Complement: CGTACGTAG
+Reverse Complement: GATGCATGC
+
